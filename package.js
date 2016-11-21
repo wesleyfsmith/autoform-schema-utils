@@ -4,7 +4,7 @@ Package.describe({
   // Brief, one-line summary of the package.
   summary: 'Simple utilities for merging autoform options into a simple schema.',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: 'https://github.com/wesleyfsmith/autoform-schema-utils.git',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
