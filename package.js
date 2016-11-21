@@ -13,7 +13,6 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.3');
   api.use('ecmascript');
-  api.use('aldeed:autoform');
-  api.use('aldeed:simple-schema');
+  api.use('aldeed:simple-schema@1.5.3');
   api.mainModule('autoform-schema-utils.js');
 });
